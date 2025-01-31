@@ -1,2 +1,7 @@
-# practice
-A toy Git repository for learning purposes
+# 핀테크 시각화 웹개발 수업 예제 실습
+## 두 번째 수업 시간
+### 첫 번째 실습
+
+'''
+오늘은 교육 과정 중 처음으로 git rep.를 만드는 날
+'''
